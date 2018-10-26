@@ -1,0 +1,10 @@
+﻿<dict>
+<key>CheckMode</key>
+<string>关卡模式</string>
+<key>GameHelp</key>
+<string>游戏帮助</string>
+<key>GameExit</key>
+<string>退出游戏</string>
+<key>Animal</key>
+<string>动物连连看</string>
+</dict>
